@@ -14,20 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<!--
-**aravag/aravag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### <div align="center">I'm Vagan, a frontend developer👨‍💻</div>  
   
 
@@ -72,9 +58,9 @@ Here are some ideas to get you started:
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&theme=transparent&hide_border=true&layout=compact" align="left" width="100%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&theme=transparent&hide_border=true&layout=compact" align="center" width="100%"/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=aravag&theme=transparent&show_icons=true&count_private=true&hide_border=true" align="left" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aravag&theme=transparent&show_icons=true&count_private=true&hide_border=true" align="center" width="100%"/>
 
 </td></tr></table>  
 
