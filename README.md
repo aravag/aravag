@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+<!--
+**aravag/aravag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ### <div align="center">I'm Vagan, a frontend developer👨‍💻</div>  
   
 
@@ -58,11 +74,9 @@ Here are some ideas to get you started:
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&theme=transparent&hide_border=true&layout=compact" align="left" width="100%"/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=aravag&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=aravag&theme=transparent&show_icons=true&count_private=true&hide_border=true" align="left" width="100%"/>
 
 </td></tr></table>  
 
@@ -70,7 +84,7 @@ Here are some ideas to get you started:
 
 ## Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aravag&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aravag&theme=transparent&hide_border=true&border_radius=6&card_width=900)](https://git.io/streak-stats)
 
 ## Connect with me  
 <a href="https://github.com/aravag" target="_blank">
@@ -92,4 +106,3 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
