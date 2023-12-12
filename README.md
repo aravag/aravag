@@ -1,3 +1,5 @@
+### Hi there 👋
+
 <!--
 **aravag/aravag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 ### <div align="center">I'm Vagan, a frontend developer👨‍💻</div>  
   
 
@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center" style="overflow-x: hidden;">
+<tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&theme=transparent&hide_border=true&layout=compact" align="center" width="100%"/>  
 
@@ -67,7 +68,6 @@ Here are some ideas to get you started:
 <br/>  
 
 ## Github Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=aravag&theme=transparent&hide_border=true&border_radius=6&card_width=900)](https://git.io/streak-stats)
 
 ## Connect with me  
