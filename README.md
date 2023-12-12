@@ -58,16 +58,19 @@ Here are some ideas to get you started:
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravag&hide_border=true&layout=compact" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=aravag&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td><td valign="top" width="50%">
 
 </td></tr></table>  
 
 <br/>  
 
+## Github Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aravag&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Connect with me  
 <a href="https://github.com/aravag" target="_blank">
